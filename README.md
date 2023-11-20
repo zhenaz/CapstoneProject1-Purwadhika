@@ -1,6 +1,6 @@
 # CapstoneProject1-Purwadhika
 
-Program Data Karyawan
+Program Data Karyawan by Benazheer Salsabila | kelas JCDSOL-012 (C)
 
 Function list : 
 - CRUD Data pegawai
